@@ -1,4 +1,4 @@
-# Algorithm Assignment - Code Monkey *@!%@*)%!*@#*(!*(@*(%*)@))
+# GOFOOD
 
 [![Trailer Code Monkey](assets/trailer-code-monkey.png)](https://www.youtube.com/watch?v=RqSzdmSUHVo)
 
